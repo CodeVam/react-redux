@@ -180,3 +180,4 @@ npm install -S react-redux
 ```bash
 npm install -S react-router-redux
 ```
+基础的配置与打包基本就有了，如需其他功能插件可自行导入
